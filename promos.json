@@ -1,18 +1,6 @@
 {
-  "enabled": true,
-  "utm": "utm_source=pangrab",
-  "recommend": {
-    "enabled": true,
-    "rotate": true,
-    "matchProvider": false,
-    "items": [
-  { "title": "百度网盘 · 最新影视合集", "url": "https://pan.baidu.com/s/1Bq_OhhrZjyYKxOn1tjxBkQ?pwd=e306" },
-  { "title": "夸克 · 热门短剧", "url": "https://pan.quark.cn/s/真实拉新链接" }
-]
-  },
-  "follow": {
-    "enabled": true,
-    "tg": { "text": "Telegram 频道", "url": "https://t.me/KIVNTG" }
-  }
+  "enabled": false,
+  "recommend": { "enabled": false, "items": [] },
+  "follow": { "enabled": false }
 }
 
