@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "utm": "utm_source=pangrab",
+  "recommend": {
+    "enabled": true,
+    "label": "🎬 资源推荐",
+    "rotate": true,
+    "items": [
+      { "title": "最新影视合集 · 每日更新", "url": "https://pan.quark.cn/s/你的拉新分享" }
+    ]
+  },
+  "follow": {
+    "enabled": true,
+    "tg": { "text": "Telegram 频道", "url": "https://t.me/你的频道" }
+  }
+}
