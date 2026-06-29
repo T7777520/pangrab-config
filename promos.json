@@ -2,13 +2,14 @@
   "enabled": true,
   "utm": "utm_source=pangrab",
   "recommend": {
-    "enabled": true,
-    "label": "🎬 资源推荐",
-    "rotate": true,
-    "items": [
-      { "title": "最新影视合集 · 每日更新", "url": "https://pan.quark.cn/s/你的拉新分享" }
-    ]
-  },
+  "enabled": true,
+  "rotate": true,
+  "items": [
+    { "title": "夸克 · 最新影视合集", "url": "https://pan.quark.cn/s/你的分享", "provider": "quark" },
+    { "title": "迅雷 · 热门短剧",     "url": "https://pan.xunlei.com/s/你的分享", "provider": "xunlei" },
+    { "title": "每日更新 · 全网资源", "url": "https://pan.quark.cn/s/你的分享" }
+  ]
+},
   "follow": {
     "enabled": true,
     "tg": { "text": "Telegram 频道", "url": "https://t.me/你的频道" }
