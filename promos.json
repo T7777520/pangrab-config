@@ -7,7 +7,7 @@
   "items": [
     { "title": "夸克 · 最新影视合集", "url": "https://pan.quark.cn/s/你的分享", "provider": "quark" },
     { "title": "迅雷 · 热门短剧",     "url": "https://pan.xunlei.com/s/你的分享", "provider": "xunlei" },
-    { "title": "百度网盘 · 最新影视合集", "url": "https://pan.baidu.com/s/1Bq_OhhrZjyYKxOn1tjxBkQ?pwd=e306", "provider": "baidui" },
+    { "title": "百度网盘 · 最新影视合集", "url": "https://pan.baidu.com/s/1Bq_OhhrZjyYKxOn1tjxBkQ?pwd=e306", "provider": "baidu" },
     { "title": "每日更新 · 全网资源", "url": "https://pan.quark.cn/s/你的分享" }
   ]
 },
